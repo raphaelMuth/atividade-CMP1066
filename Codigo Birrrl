@@ -1,0 +1,14 @@
+
+HORA DO SHOW
+    CE QUER VER ESSA PORRA? ("Quantos kilo nesse supino reeeeto?\n");
+    MONSTRO BIRRRRRL;
+    QUE QUE CE QUER MONSTRAO? ("%d", &BIRRRRRL);
+    ELE QUE A GENTE QUER? (BIRRRRRL > 49)
+        CE QUER VER ESSA PORRA? ("Pesado pra caraaaaaalho, porraaa\n");
+        CE QUER VER ESSA PORRA? ("Sai de casa comi pra caraaaalho\n");
+        CE QUER VER ESSA PORRA? ("Aqui é 37 ANOS PORRA\n");
+    NAO VAI DAR NAO
+        CE QUER VER ESSA PORRA? ("SEU FRAAANGO, VAI COMER BATATA DOOOCE\n");
+    BIRL
+    BORA CUMPADE 0;
+BIRL
